@@ -12,4 +12,3 @@ if key in range(1,26):
 else:
     print('error key...')
 print(result)
-input()
